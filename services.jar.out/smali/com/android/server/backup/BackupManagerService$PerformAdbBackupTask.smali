@@ -984,7 +984,7 @@
 
     invoke-virtual {v3}, Landroid/os/ParcelFileDescriptor;->getFd()I
 
-    move-result v3+
+    move-result v3
 
     invoke-static {v3}, Lcom/android/server/backup/BackupManagerServiceInjector;->isForceAllowBackup(I)Z
 
