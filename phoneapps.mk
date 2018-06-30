@@ -4,8 +4,11 @@ local-phone-priv-apps = $(private-phone-priv-apps)
 private-phone-apps := \
 	BasicDreams \
 	Bluetooth \
+	BluetoothExt \
+	BluetoothMidiService \
 	CertInstaller \
 	KeyChain \
+	LatinIME \
 	LiveWallpapers \
 	PacProcessor \
 	PicoTts \
@@ -13,17 +16,21 @@ private-phone-apps := \
 	Stk \
 	telresources \
 	TimeService \
-	WAPPushManager 
+	WAPPushManager \
+	webview 
 
 private-phone-priv-apps := \
 	AudioFX \
 	BackupRestoreConfirmation \
+	CarrierConfig \
 	CellBroadcastReceiver \
 	CMAudioService \
 	CMSettingsProvider \
 	ExternalStorageProvider \
+	FMRadio \
 	FusedLocation \
 	InputDevices \
+	ProximityCalibrate \
 	ProxyHandler \
 	Screencast \
 	SharedStorageBackup \
