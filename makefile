@@ -8,24 +8,26 @@ local-zip-file := stockrom.zip
 # The output zip file of MIUI rom, the default is porting_miui.zip if not specified
 local-out-zip-file := miui-8_Z00YD.zip
 
-local-miui-modified-apps :=
+local-miui-modified-apps := InCallUI MiuiSystemUI Provision TeleService SecurityCenter 
 
 # All apps from original ZIP, but has smali files chanded
 local-modified-apps :=
+local-modified-jars := org.cyanogenmod.platform
 
 # All apks from MIUI
-local-miui-removed-apps :=
+local-miui-removed-apps := BugReport FM GameCenter MiGameCenterSDKService MiLivetalk Mipay MiuiSuperMarket MiuiVideo MiuiVoip QuickSearchBox SogouInput SystemAdSolution VoiceAssist WebViewGoogle XiaomiVip XMPass
 
 # All apps need to be removed from original ZIP file
-local-phone-apps :=
-
-local-phone-priv-apps :=
+local-remove-apps   := 
+ 
+ include phoneapps.mk
 
 # To include the local targets before and after zip the final ZIP file,
 # and the local-targets should:
 # (1) be defined after including porting.mk if using any global variable(see porting.mk)
 # (2) the name should be leaded with local- to prevent any conflict with global targets
-local-pre-zip := local-zip-misc
+local-pre-zip := local-pre-zip-misc
+local-after-zip:= local-put-to-phone
 
 local-density := XHDPI
 
