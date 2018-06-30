@@ -1,31 +1,27 @@
 #
 # ADDITIONAL_DEFAULT_PROPERTIES
 #
-ro.usb.id.midi=90BA
-ro.usb.id.midi_adb=90BB
-ro.usb.id.mtp=F003
-ro.usb.id.mtp_adb=9039
-ro.usb.id.ptp=904D
-ro.usb.id.ptp_adb=904E
-ro.usb.id.ums=F000
-ro.usb.id.ums_adb=9015
-ro.usb.vid=05c6
-ro.adb.secure=0
 ro.secure=0
-security.perf_harden=0
-ro.allow.mock.location=0
+ro.adb.secure=0
+ro.allow.mock.location=1
 ro.debuggable=1
-ro.zygote=zygote64_32
+persist.service.acm.enable=0
+ro.oem_unlock_supported=1
+security.perf_harden=1
+ro.zygote=zygote32
 dalvik.vm.image-dex2oat-Xms=64m
 dalvik.vm.image-dex2oat-Xmx=64m
 dalvik.vm.dex2oat-Xms=64m
 dalvik.vm.dex2oat-Xmx=512m
 ro.dalvik.vm.native.bridge=0
 debug.atrace.tags.enableflags=0
+camera.disable_zsl_mode=1
+ro.mount.fs=EXT4
+persist.sys.usb.config=mtp,adb
+ro.hardware=mt6580
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Fri Jul 8 08:55:13 PDT 2016
-ro.bootimage.build.date.utc=1467993313
-ro.bootimage.build.fingerprint=YU/YUREKA/YUREKA:6.0.1/MOB30R/820b2def23:userdebug/test-keys
-persist.sys.usb.config=mtp,adb
+ro.bootimage.build.date=Ср май 9 22:12:00 +03 2018
+ro.bootimage.build.date.utc=1525893121
+ro.build.fingerprint=asus/WW_Phone/ASUS_Z00YD:6.0.1/MOI10E/04ea53ee53:userdebug/test-keys
