@@ -548,7 +548,7 @@
     return-object v0
 .end method
 
-method public getFatVolumeId()I
+.method public getFatVolumeId()I
     .locals 5
 
     .prologue
