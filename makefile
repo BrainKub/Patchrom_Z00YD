@@ -15,7 +15,7 @@ local-modified-apps :=
 local-modified-jars := org.cyanogenmod.platform
 
 # All apks from MIUI
-local-miui-removed-apps := BugReport FM GameCenter MiGameCenterSDKService MiLivetalk Mipay MiuiSuperMarket MiuiVideo MiuiVoip QuickSearchBox SogouInput SystemAdSolution VoiceAssist WebViewGoogle XiaomiVip XMPass
+local-miui-removed-apps := GameCenter FM Mipay XiaomiVip MiGameCenterSDKService 
 
 # All apps need to be removed from original ZIP file
 local-remove-apps   := 
