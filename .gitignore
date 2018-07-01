@@ -1,6 +1,5 @@
 build.sh
 bootlog.txt
-.gitignore
 stockrom.zip
 stockrom/*
 out/*
