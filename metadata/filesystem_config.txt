@@ -520,6 +520,8 @@ system/etc/audio_device.xml 0 0 644 selabel=u:object_r:system_file:s0 capabiliti
 system/etc/audio_effects.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/audio_policy.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/clatd.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/etc/device_features 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/etc/device_features/Z00YD.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/custom.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/ecc_list.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/event-log-tags 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
