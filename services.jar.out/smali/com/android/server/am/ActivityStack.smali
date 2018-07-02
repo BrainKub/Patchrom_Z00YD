@@ -8159,19 +8159,7 @@
 
     .line 3996
     :cond_10
-    iget-object v8, p1, Lcom/android/server/am/ActivityRecord;->packageName:Ljava/lang/String;
- 
-    invoke-static {v8, v0, v3, v1}, Landroid/app/MiuiThemeHelper;->canKeepActivityAlive(Ljava/lang/String;ILandroid/content/res/Configuration;Landroid/content/res/Configuration;)Z
- 
-    move-result v8
-
-    if-eqz v8, :cond_miui_f
-
-    const/4 v8, 0x1
-
-    return v8
-
-    :cond_miui_f
+    
     iget-object v9, p1, Lcom/android/server/am/ActivityRecord;->info:Landroid/content/pm/ActivityInfo;
 
     invoke-virtual {v9}, Landroid/content/pm/ActivityInfo;->getRealConfigChanged()I
@@ -14224,6 +14212,7 @@
 .method final requestFinishActivityLocked(Landroid/os/IBinder;ILandroid/content/Intent;Ljava/lang/String;Z)Z
     .locals 6
     .param p1, "token"    # Landroid/os/IBinder;
+    .param p2, "resultCode"    # I
     .param p3, "resultData"    # Landroid/content/Intent;
     .param p4, "reason"    # Ljava/lang/String;
     .param p5, "oomAdj"    # Z
