@@ -15,6 +15,7 @@ private-phone-apps := \
 	Stk \
 	telresources \
 	WAPPushManager \
+	EngineerMode \
 	webview 
 
 private-phone-priv-apps := \
