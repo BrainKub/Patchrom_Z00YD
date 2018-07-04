@@ -15,7 +15,7 @@ local-modified-apps :=
 local-modified-jars := org.cyanogenmod.platform
 
 # All apks from MIUI
-local-miui-removed-apps := GameCenter FM Mipay XiaomiVip MiGameCenterSDKService 
+local-miui-removed-apps := BugReport GameCenter FM Mipay XiaomiVip MiGameCenterSDKService MiLivetalk MiuiVoip SogouInput SystemAdSolution VoiceAssist XMPass YellowPage MiuiScanner 
 
 # All apps need to be removed from original ZIP file
 local-remove-apps   := 
@@ -55,6 +55,7 @@ local-pre-zip-misc:
 	$(hide) rm -rf $(ZIP_DIR)/system/etc/CHANGELOG-CM.txt
 	$(hide) rm -rf $(ZIP_DIR)/system/recovery-from-boot.bak
 	$(hide) rm -rf $(ZIP_DIR)/system/media/audio/*
+	$(hide) rm -rf $(ZIP_DIR)/system/lib64/*
 	@echo use only miui sounds!
 	$(hide) cp -rf $(PORT_ROOT)/miui/system/media/$(local-density)/audio/* $(ZIP_DIR)/system/media/audio
 	$(hide) rm -rf $(ZIP_DIR)/system/media/audio/create_symlink_for_audio-timestamp
