@@ -7,7 +7,6 @@ private-phone-apps := \
 	BluetoothMidiService \
 	CertInstaller \
 	KeyChain \
-	LatinIME \
 	LiveWallpapers \
 	PacProcessor \
 	PicoTts \

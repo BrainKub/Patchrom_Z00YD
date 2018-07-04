@@ -22,12 +22,6 @@ system/app/CMWallpapers 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0
 system/app/CMWallpapers/CMWallpapers.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/Calendar 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/Calendar/Calendar.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2/Camera2.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2/lib 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2/lib/arm 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2/lib/arm/libjni_jpegutil.so 0 0 777 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/app/Camera2/lib/arm/libjni_tinyplanet.so 0 0 777 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/CaptivePortalLogin 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/CaptivePortalLogin/CaptivePortalLogin.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/CertInstaller 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -64,6 +58,8 @@ system/app/GoogleContactsSyncAdapter 0 0 755 selabel=u:object_r:system_file:s0 c
 system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/GoogleTTS 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/GoogleTTS/GoogleTTS.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/Gboard 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/Gboard/Gboard.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/HTMLViewer 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/HTMLViewer/HTMLViewer.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/HexoLibre 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
