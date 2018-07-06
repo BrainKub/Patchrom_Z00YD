@@ -2630,6 +2630,31 @@
 
 
 # virtual methods
+.method public calibrateSensor(Landroid/hardware/Sensor;)Z
+    .locals 1
+    .param p1, "sensor"    # Landroid/hardware/Sensor;
+
+    .prologue
+    .line 846
+    if-nez p1, :cond_0
+
+    .line 847
+    const/4 v0, 0x0
+
+    return v0
+
+    .line 849
+    :cond_0
+    invoke-virtual {p0, p1}, Landroid/hardware/SensorManager;->calibrateSensorImpl(Landroid/hardware/Sensor;)Z
+
+    move-result v0
+
+    return v0
+.end method
+
+.method protected abstract calibrateSensorImpl(Landroid/hardware/Sensor;)Z
+.end method
+
 .method public cancelTriggerSensor(Landroid/hardware/TriggerEventListener;Landroid/hardware/Sensor;)Z
     .locals 1
     .param p1, "listener"    # Landroid/hardware/TriggerEventListener;
