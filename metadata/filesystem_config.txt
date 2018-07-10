@@ -133,6 +133,8 @@ system/app/telresources 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0
 system/app/telresources/telresources.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/webview 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/webview/webview.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/YGPS 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/YGPS/YGPS.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/6620_launcher 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/6620_wmt_concurrency 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -337,6 +339,7 @@ system/bin/mount 0 0 777 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mount.exfat 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mount.ntfs 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mountpoint 0 0 777 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/bin/msensord 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mtk_agpsd 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mtkbt 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/bin/mtkradiooptions 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -523,7 +526,7 @@ system/etc/audio_effects.conf 0 0 644 selabel=u:object_r:system_file:s0 capabili
 system/etc/audio_policy.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/clatd.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/device_features 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/etc/device_features/Z00YD.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/etc/device_features/ASUS_Z00YD.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/custom.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/ecc_list.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/event-log-tags 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -589,6 +592,7 @@ system/etc/hostapd/hostapd.deny 0 0 644 selabel=u:object_r:system_file:s0 capabi
 system/etc/hostapd/hostapd_default.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/init.d 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/init.d/00banner 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/etc/init.d/01SimFix_temp 0 2000 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/init.d/90userinit 0 2000 755 selabel=u:object_r:userinit_exec:s0 capabilities=0x0
 system/etc/mddb 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6580_S00_MOLY_WR8_W1449_MD_WG_MP_V6_P4_1_wg_n 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0

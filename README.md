@@ -10,8 +10,8 @@ Status - beta
 ------------------
 Bugs:
 - ~~Camera~~ 
-- "No sim" in statusbar
-- Gps(LOS bug)
+- ~~"No sim" in statusbar~~
+- ~~Gps(LOS bug)~~
 - ~~Compass(LOS bug)~~
 - One-handed mode
 - Three finger screenshot

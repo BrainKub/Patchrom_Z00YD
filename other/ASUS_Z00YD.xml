@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features>
+    <!--whether the device is port by patchrom-->
+    <bool name="is_patchrom">true</bool>
+    <!--whether the device is dual sim card-->
+    <bool name="support_dual_sim_card">true</bool>
+</features>
