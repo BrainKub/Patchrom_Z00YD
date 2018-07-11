@@ -44,7 +44,7 @@ case $renv in
         echo "Cleaning out direcory..."
 		make clean
 		rm -rf /home/brainkub/patchrom/Z00YD/miui-8_Z00YD.zip
-        echo "start building miui..."
+        echo "Start building miui..."
 		make fullota
 		echo ""
 		cp /home/brainkub/patchrom/Z00YD/out/fullota.zip /home/brainkub/patchrom/Z00YD/miui-8_Z00YD.zip
