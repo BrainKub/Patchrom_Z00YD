@@ -139,7 +139,6 @@
 /system/bin/run-as	--	u:object_r:runas_exec:s0
 /system/bin/bootanimation u:object_r:bootanim_exec:s0
 /system/bin/app_process32	u:object_r:zygote_exec:s0
-/system/bin/app_process64	u:object_r:zygote_exec:s0
 /system/bin/servicemanager	u:object_r:servicemanager_exec:s0
 /system/bin/surfaceflinger	u:object_r:surfaceflinger_exec:s0
 /system/bin/drmserver	u:object_r:drmserver_exec:s0
@@ -154,7 +153,6 @@
 /system/bin/fingerprintd u:object_r:fingerprintd_exec:s0
 /system/bin/gatekeeperd u:object_r:gatekeeperd_exec:s0
 /system/bin/debuggerd	u:object_r:debuggerd_exec:s0
-/system/bin/debuggerd64	u:object_r:debuggerd_exec:s0
 /system/bin/wpa_supplicant	u:object_r:wpa_exec:s0
 /system/bin/sdcard      u:object_r:sdcardd_exec:s0
 /system/bin/dhcpcd      u:object_r:dhcp_exec:s0
