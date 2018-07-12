@@ -21,6 +21,8 @@ Bugs:
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/slogan.png)
 
+## Spec Sheet
+
 | Feature                 | Specification                     |
 | Platform                | Android™ 5.1                      |
 | CPU                     | MediaTek MT6580 Quad-Core 1.3GHz  |
