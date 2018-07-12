@@ -17,6 +17,7 @@ Bugs:
 - One-handed mode
 - Pamorama
 - No password is set on the wi-fi access point
+- Pattern screen lock
 ------------------
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
 #
