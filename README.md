@@ -13,6 +13,28 @@ Bugs:
 - ~~"No sim" in statusbar~~
 - ~~Gps(LOS bug)~~
 - ~~Compass(LOS bug)~~
-- One-handed mode
 - ~~Three finger screenshot~~
+- One-handed mode
+- Pamorama
+- No password is set on the wi-fi access point
 ------------------
+![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
+![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/slogan.png)
+|Сharacteristics |
+| :---------------------- | :-------------------------------- |
+| Platform                | Android™ 5.1                      |
+| CPU                     | MediaTek MT6580 Quad-Core 1.3GHz  |
+| Memory                  | 2 GB                              |
+| Storage                 | 16GB eMCP Flash                   |
+| MicroSD                 | Up to 64 GB                       |
+| Dimensions              | 144.5 x 71.4 x 9.9 mm             |
+| Display                 | 720 x 1280 pixels, 5.0" IPS LCD   |
+| Camera                  | Rear: 8MP, LED flash / Front: 2MP |
+| Battery                 | 2070 mAh Li-Polymer(removable)    |
+| Slots                   | Micro-USB, 3.5mm                  |
+| Sensor                  | Accel, Light/Proximity, Compass   |
+------------------
+![image](https://www.asus.com/media/global/products/Es9S11dSeOjsCMrx/mQvXueJrEDxq12YN_setting_fff_1_90_end_500.png)
+![image](https://www.asus.com/media/global/products/Es9S11dSeOjsCMrx/LQDk5VWFzIhuDZVw_setting_fff_1_90_end_500.png)
+
+
