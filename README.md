@@ -18,8 +18,9 @@ Bugs:
 - Pamorama
 - No password is set on the wi-fi access point
 ------------------
-- ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
-- ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/slogan.png)
+![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
+#
+![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/slogan.png)
 
 ## Spec Sheet
 
