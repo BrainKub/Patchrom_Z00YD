@@ -14,5 +14,5 @@ Bugs:
 - ~~Gps(LOS bug)~~
 - ~~Compass(LOS bug)~~
 - One-handed mode
-- Three finger screenshot
+- ~~Three finger screenshot~~
 ------------------
