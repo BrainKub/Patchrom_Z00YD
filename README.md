@@ -20,8 +20,8 @@ Bugs:
 ------------------
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/slogan.png)
-|Сharacteristics |
-| :---------------------- | :-------------------------------- |
+
+| Feature                 | Specification                     |
 | Platform                | Android™ 5.1                      |
 | CPU                     | MediaTek MT6580 Quad-Core 1.3GHz  |
 | Memory                  | 2 GB                              |
@@ -33,6 +33,7 @@ Bugs:
 | Battery                 | 2070 mAh Li-Polymer(removable)    |
 | Slots                   | Micro-USB, 3.5mm                  |
 | Sensor                  | Accel, Light/Proximity, Compass   |
+
 ------------------
 ![image](https://www.asus.com/media/global/products/Es9S11dSeOjsCMrx/mQvXueJrEDxq12YN_setting_fff_1_90_end_500.png)
 ![image](https://www.asus.com/media/global/products/Es9S11dSeOjsCMrx/LQDk5VWFzIhuDZVw_setting_fff_1_90_end_500.png)
