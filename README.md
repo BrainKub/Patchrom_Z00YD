@@ -24,6 +24,7 @@ Bugs:
 ## Spec Sheet
 
 | Feature                 | Specification                     |
+| :---------------------- | :-------------------------------- |
 | Platform                | Android™ 5.1                      |
 | CPU                     | MediaTek MT6580 Quad-Core 1.3GHz  |
 | Memory                  | 2 GB                              |
