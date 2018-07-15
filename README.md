@@ -14,7 +14,6 @@ Bugs:
 - ~~Gps(LOS bug)~~
 - ~~Compass(LOS bug)~~
 - ~~Three finger screenshot~~
-- One-handed mode
 - Pamorama
 - No password is set on the wi-fi access point
 - Pattern screen lock
