@@ -8,7 +8,7 @@ local-zip-file := stockrom.zip
 # The output zip file of MIUI rom, the default is porting_miui.zip if not specified
 local-out-zip-file := miui-8_Z00YD.zip
 
-local-miui-modified-apps := InCallUI TeleService SecurityCenter 
+local-miui-modified-apps := InCallUI TeleService SecurityCenter MiuiSystemUI
 
 # All apps from original ZIP, but has smali files chanded
 local-modified-apps :=
