@@ -5,7 +5,7 @@ This is the Git repo of MIUI 8 patchROM for Asus Live(Z00YD) developed by BrainK
 ![image](http://tuxnews.it/wp-content/uploads/2016/09/MIUI-8.jpg)
 ------------------
 
-Status - beta
+Status - closed beta
 
 ------------------
 Bugs:
